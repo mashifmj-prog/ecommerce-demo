@@ -1,0 +1,17 @@
+[
+  {"id":1,"name":"Fresh Milk 1L","category":"Dairy","price":19.99,"image":"/images/milk.jpg","featured":true,"discount":"10% off","bestSeller":true},
+  {"id":2,"name":"Brown Bread 700g","category":"Bakery","price":14.50,"image":"/images/bread.jpg","featured":true},
+  {"id":3,"name":"Coca-Cola 2L","category":"Beverages","price":28.00,"image":"/images/coke.jpg","featured":false,"discount":"5% off","bestSeller":true},
+  {"id":4,"name":"Orange Juice 1L","category":"Beverages","price":22.50,"image":"/images/juice.jpg","featured":false},
+  {"id":5,"name":"Free Range Eggs 12","category":"Dairy","price":35.00,"image":"/images/eggs.jpg","featured":false},
+  {"id":6,"name":"Cornflakes 500g","category":"Breakfast","price":45.00,"image":"/images/cereal.jpg","featured":false},
+  {"id":7,"name":"Potato Chips 150g","category":"Snacks","price":18.00,"image":"/images/chips.jpg","featured":false},
+  {"id":8,"name":"Bath Soap 100g","category":"Household","price":12.00,"image":"/images/soap.jpg","featured":false},
+  {"id":9,"name":"White Sugar 2kg","category":"Grocery","price":40.00,"image":"/images/sugar.jpg","featured":false},
+  {"id":10,"name":"Rice 5kg","category":"Grocery","price":120.00,"image":"/images/rice.jpg","featured":false},
+  {"id":11,"name":"Black Tea 100 bags","category":"Beverages","price":55.00,"image":"/images/tea.jpg","featured":false},
+  {"id":12,"name":"Coffee 250g","category":"Beverages","price":65.00,"image":"/images/coffee.jpg","featured":false},
+  {"id":13,"name":"Butter 250g","category":"Dairy","price":38.00,"image":"/images/butter.jpg","featured":false},
+  {"id":14,"name":"Yogurt 500g","category":"Dairy","price":25.00,"image":"/images/yogurt.jpg","featured":false},
+  {"id":15,"name":"Instant Noodles 5-pack","category":"Grocery","price":20.00,"image":"/images/noodles.jpg","featured":false}
+]
